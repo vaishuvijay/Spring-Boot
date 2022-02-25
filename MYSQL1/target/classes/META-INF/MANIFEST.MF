@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: MYSQL1
+Implementation-Version: 2.6.3
+Created-By: Maven Integration for Eclipse
+
